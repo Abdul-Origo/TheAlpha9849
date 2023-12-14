@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheAlpha9849
+- 👋 Hi, I’m @AbdulMujeeb
 - 👀 I’m interested in ... Agroculture IOT
 - 🌱 I’m currently learning ... Weather Stations IPs
 - 💞️ I’m looking to collaborate on ... Readme
